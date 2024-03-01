@@ -1,13 +1,6 @@
-# Robot-parser
-# Proyecto 0 - Lenguajes y Máquinas
 
-## Integrantes
+# Proyecto 1
 
-* Brayan Estiven Salcedo Suarez - Código 202022731 - Correo electrónico: b.salcedo@uniandes.edu.co
-* Juan Andrés Vargas Bolaños - Código 202110398 - Correo electrónico: ja.vargasb1@uniandes.edu.co
+## Link del video
+https://youtu.be/td-sjV4BJz4
 
-## Instrucciones
-
-1. Se ha seleccionado Python como el lenguaje de implementación.
-2. Para probar el código, ingresar en el archivo "**code_test.txt**".
-3. Ejecutar el archivo "**AppPython.py**".
